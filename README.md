@@ -30,6 +30,8 @@ It demonstrates how spreadsheets can be used for automation, inventory managemen
 ---
 
 ## 📸 Screenshots
+![Sales_person](Sales_person 1.png)
+
 ![Summary Dashboard]
 
 
