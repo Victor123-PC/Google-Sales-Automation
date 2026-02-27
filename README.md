@@ -31,11 +31,23 @@ It demonstrates how spreadsheets can be used for automation, inventory managemen
 
 ## 📸 Screenshots
 
-![Sales_person](Sales_person 1.png)
+![Sales Person](Sales_person 1.png)
+
+
+![](Sales_person 2.png)
+
+
 
 ![Inventory](Sales_Inventory .png)
 
+
+
+
+
+
 ![Summary Dashboard](Sales_Summary.png)
+
+
 
 
 
